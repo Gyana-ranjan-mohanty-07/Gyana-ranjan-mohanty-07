@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gyana-ranjan-mohanty-07
-- 👀 I’m interested in Web developer 
+- 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning B.TECH IN Electrical & Computer Science Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/gyana-ranjan-mohanty-b5b466280/
